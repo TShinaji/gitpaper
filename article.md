@@ -1,11 +1,13 @@
 # Git Article
 ## Introduction 
 
-## Material and  Method
+## Material and  Methodis
 
 ## Results
 
 ## Discussion
 
 ## Conclusion
+
+## References
 
